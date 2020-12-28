@@ -1,2 +1,2 @@
 # SentimentAnalysisBot
-Sentiment Analysis Bot that interprets user inputs as negative or positive
+Sentiment Analysis Bot that analyzes user text to determine emotional tone
